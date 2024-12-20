@@ -24,7 +24,7 @@ A magical snow effect overlay for macOS that creates falling snowflakes, snowboa
 ### Building from Source
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/SnowOverlay.git
+git clone https://github.com/haydencbarnes/SnowOverlay.git
 ```
 2.	Build using Xcode or terminal:
 ```bash
